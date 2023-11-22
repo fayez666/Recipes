@@ -1,16 +1,3 @@
 # recipes
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/fayez666/Recipes/assets/77704981/8f5171b0-63bd-4ccb-aee7-54e7ef7035bd)
+![image](https://github.com/fayez666/Recipes/assets/77704981/e1704410-e398-476f-9d24-891b040475a7)
